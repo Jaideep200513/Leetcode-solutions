@@ -1,5 +1,5 @@
 /*
-LeetCode Problem: Minimum Area Rectangle that covers all 1s in a grid
+3195. Find the Minimum Area to Cover All Ones I
 
 Approach:
 - Find min/max row and col where 1 appears
